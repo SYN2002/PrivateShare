@@ -7,7 +7,7 @@ function Access() {
   const [text, setText] = useState("");
   const find = async (event) => {
     event.preventDefault();
-    let url = "https://ttd-one.vercel.app/find/";
+    let url = "https://private-share.vercel.app/find/";
     url = url.concat(code);
     console.log(url);
     axios.get(url).then(function (response) {
@@ -25,7 +25,7 @@ function Access() {
 
         <div className="flex flex-row">
           <input
-            className="text-2xl  bg- rounded-lg p-1 text-[#0B2447] w-48"
+            className="text-2xl  bg- rounded-lg p-1 text-[#0b4547] w-48"
             value={code}
             onChange={(e) => setCode(e.target.value)}
           ></input>
