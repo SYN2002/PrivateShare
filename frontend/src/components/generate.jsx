@@ -47,7 +47,7 @@ function Generate() {
 }
 
   return (
-    <div className="bg-[#D3E0EA]">
+    <div className="bg-gradient-to-r from-[#aa98b3] to-[#d1bfd9]">
       <div className=" p-20 flex flex-col textArea">
         <div className="access flex items-center justify-center mt-3 ">
           <div className="flex flex-row codeInput">
@@ -102,7 +102,7 @@ function Generate() {
             ) : (
               <div>
                 <div className="mx-auto flex items-center justify-center">
-                  <button className="text-[#FFFFFF] font-semibold text-2xl mx-3 rounded-lg p-1 w-28 shadow-xl bg-[#276678]">
+                  <button className="text-[#FFFFFF] font-semibold text-2xl mx-3 rounded-lg p-1 w-28 shadow-xl bg-[#35663c]">
                     Upload
                   </button>
                 </div>
