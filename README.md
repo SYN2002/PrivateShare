@@ -3,7 +3,10 @@
 - Simply input your text into the designated area, then press the upload button to receive a unique 4-character code.
 - At this point, you can access the data by entering the provided code into the input box.
 - Stored for a duration of 24 hours, the data also offers support for syntax highlighting in multiple programming languages.
+  # Demo Video
+  [![Watch the video](https://youtu.be/kr_s7qE6TIU?si=kYmm5Q-MGSXrKcxc)
 
+ 
   
 # To run the application
 
