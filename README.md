@@ -7,6 +7,7 @@
   
 # To run the application
 
+Clone the repository:
 ```
 git clone https://github.com/SYN2002/PrivateShare.git
 ```
