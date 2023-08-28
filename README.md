@@ -4,7 +4,7 @@
 - At this point, you can access the data by entering the provided code into the input box.
 - Stored for a duration of 24 hours, the data also offers support for syntax highlighting in multiple programming languages.
   # Demo Video
-  [![Watch the video](https://img.youtube.com/vi/kr_s7qE6TIU?si=7amTzLBS3D5yOr5K.jpg)](https://youtu.be/kr_s7qE6TIU?si=kYmm5Q-MGSXrKcxc)
+  [![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://www.youtube.com/watch?v=kr_s7qE6TIU)
 
  
   
