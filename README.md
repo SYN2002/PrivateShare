@@ -11,13 +11,14 @@
 git clone https://github.com/SYN2002/PrivateShare.git
 ```
 
-
 ```
 cd frontend
 ```
+
 ```
 npm install
 ```
+
 ```
 npm start
 ```
