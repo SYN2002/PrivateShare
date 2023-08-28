@@ -8,10 +8,9 @@
 # To run the application
 
 ```
-git clone
+git clone https://github.com/SYN2002/PrivateShare.git
 ```
-```
-Link: https://github.com/SYN2002/PrivateShare.git
+
 ```
 ```
 cd frontend
