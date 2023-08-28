@@ -19,7 +19,7 @@ Install Dependencies:
 ```
 npm install
 ```
-
+Execute the program:
 ```
 npm start
 ```
