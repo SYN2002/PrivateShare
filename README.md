@@ -4,13 +4,13 @@
 - At this point, you can access the data by entering the provided code into the input box.
 - Stored for a duration of 24 hours, the data also offers support for syntax highlighting in multiple programming languages.
 
-
+  
 # To run the application
 
 ```
 git clone https://github.com/SYN2002/PrivateShare.git
 ```
-
+  
 ```
 cd frontend
 ```
