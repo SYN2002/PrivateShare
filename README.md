@@ -15,7 +15,7 @@ Change the directory to frontend:
 ```
 cd frontend
 ```
-
+Install Dependencies:
 ```
 npm install
 ```
