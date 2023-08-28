@@ -11,7 +11,7 @@ Clone the repository:
 ```
 git clone https://github.com/SYN2002/PrivateShare.git
 ```
-  
+Change the directory to frontend:
 ```
 cd frontend
 ```
